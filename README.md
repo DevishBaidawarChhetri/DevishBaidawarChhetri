@@ -10,7 +10,7 @@
 + A Technology Enthusiast,
 + A Programmer,
 + An Anime Lover,
-+ A Gammer,
++ A Gamer,
 + And Obviously a Music Lover. 😉
 ```
 > #### 🔭 I’m currently 
@@ -27,7 +27,7 @@
 
 > ⚡ Fun fact: Its really a fun fact! 😅 </br>
 
-> ##### Favourite Quote from Naruto (Anime): 
+> ## Favourite Quote from Naruto (Anime): 
 > "Those who cannot acknowledge themselves, will eventually fail." - Itachi Uchiha
 
 ### Follow me on:
