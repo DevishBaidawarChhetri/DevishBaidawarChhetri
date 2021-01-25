@@ -3,19 +3,19 @@
 ## I'm a Student, Technology Enthusiast, Gammer and an aspiring Software Engineer!
 
 - <img align="center" alt="Learning" width="26px" src="https://img.icons8.com/cute-clipart/64/000000/learning.png" /> I’m currently learning React JS 
-- <img align="center" alt="Goal" width="26px" src="https://img.icons8.com/fluent/100/000000/goal.png" /> 2020 Goals: Dive deep into React
+- <img align="center" alt="Goal" width="26px" src="https://img.icons8.com/fluent/100/000000/goal.png" /> 2021 Goals: Dive deep into React
 - <img align="center" alt="Email" width="26px" src="https://img.icons8.com/clouds/100/000000/email.png" /> How to reach me? Through social media or simply email
-- <img align="center" alt="Fun Fact" width="26px" src="https://img.icons8.com/color/100/000000/light-on.png" /> Fun fact: <img align="center" alt="FC Barcelona" width="26px" src="https://img.icons8.com/color/100/000000/barcelona-fc.png" /> = <img align="center" alt="Heart" width="26px" src="https://img.icons8.com/fluent/50/000000/like.png" />
+- <img align="center" alt="Fun Fact" width="26px" src="https://img.icons8.com/color/100/000000/light-on.png" /> Fun fact: <img align="center" alt="FC Barcelona" width="26px" src="https://cdn.worldvectorlogo.com/logos/fc-barcelona.svg" /> = <img align="center" alt="Heart" width="26px" src="https://cdn.worldvectorlogo.com/logos/heart.svg" />
 
 ## <br />
 ![](https://komarev.com/ghpvc/?username=devishbaidawarchhetri&label=PROFILE+VIEWS&color=blue)
 
 ### Connect with me:
 
-[<img align="left" alt="devish | Facebook" width="22px" src="https://cdn.worldvectorlogo.com/logos/facebook-3.svg" />](https://https://facebook.com/devishchhetri)
-[<img align="left" alt="devish | Twitter" width="22px" src="https://cdn.worldvectorlogo.com/logos/twitter-3.svg" />](https://https://twitter.com/devishchhetri)
-[<img align="left" alt="devish | Instagram" width="22px" src="https://www.greatpyramid.org/wp-content/uploads/2019/11/fourjay.org-instagram-logo-png-transparent-368350.png" />](https://www.instagram.com/devishchhetri/)
-[<img align="left" alt="devish | LinkedIn" width="22px" src="https://i.pinimg.com/originals/d4/6a/98/d46a986b6d870ea58f0a739431f3b593.png" />](https://www.linkedin.com/in/devishchhetri/)
+[<img align="left" alt="devish | Facebook" width="22px" src="https://cdn.worldvectorlogo.com/logos/facebook-4.svg" />](https://https://facebook.com/devishchhetri)
+[<img align="left" alt="devish | Twitter" width="22px" src="https://cdn.worldvectorlogo.com/logos/twitter-4.svg" />](https://https://twitter.com/devishchhetri)
+[<img align="left" alt="devish | Instagram" width="22px" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" />](https://www.instagram.com/devishchhetri/)
+[<img align="left" alt="devish | LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />](https://www.linkedin.com/in/devishchhetri/)
 
 ## <br />
 ### Languages and Tools:
