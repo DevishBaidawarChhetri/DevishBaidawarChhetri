@@ -14,7 +14,7 @@
 
 [<img align="left" alt="devish | Facebook" width="22px" src="https://cdn.worldvectorlogo.com/logos/facebook-4.svg" />](https://https://facebook.com/devishchhetri)
 [<img align="left" alt="devish | Twitter" width="22px" src="https://cdn.worldvectorlogo.com/logos/twitter-4.svg" />](https://https://twitter.com/devishchhetri)
-[<img align="left" alt="devish | Instagram" width="22px" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" />](https://www.instagram.com/devishchhetri/)
+[<img align="left" alt="devish | Instagram" width="22px" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" />](https://www.instagram.com/devish$chhetri/)
 [<img align="left" alt="devish | LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />](https://www.linkedin.com/in/devishchhetri/)
 
 ## <br />
